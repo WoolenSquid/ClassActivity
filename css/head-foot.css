@@ -1,10 +1,15 @@
 header {
+    margin: 5px;
     margin-bottom: 5px;
     display: flex;
     flex-direction: row;
     align-items: center;
     border-style: solid;
     border-color: black;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border-bottom: 1px;
 }
 
 .header-main{
