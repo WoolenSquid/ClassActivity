@@ -1,6 +1,6 @@
 header {
-    margin: 5px;
-    margin-bottom: 5px;
+    margin: 0px;
+    margin-bottom: 1px;
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -10,6 +10,7 @@ header {
     border-left: 0;
     border-right: 0;
     border-bottom: 1px;
+    background-color: rgb(77, 77, 77);
 }
 
 .header-main{
@@ -20,7 +21,7 @@ header {
     align-items: center;
     width: 100%;
     height: 85px;
-
+    color: aliceblue;
 }
 
 a{
